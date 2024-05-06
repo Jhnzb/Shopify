@@ -1,0 +1,4 @@
+- In this step go to product option and click on add product enter the product title add description of about 20 words add picture related to your product and  price it equallly .
+- You can also add variants related to (colour, size e .t .c ).
+- You have to add your products one by one .
+- When you go to collection here you create collections of different types like Men Women or childrens e.t.c. 

@@ -1,0 +1,6 @@
+- To customize your theme go to online store option click on theme and customize it according to your need or your product prefrence .
+- You can either select a random theme with zero cost or  purchase a theme .
+- After selecting a theme go to customize option it gives you different options by which you can edit its front page make changes to announcement bar change the footer and  link your tiktok, fb or whats app with your store .
+- You can either create your own collection or proceed with already built in collection and change the name according to tour need. 
+- You can also remove or add a section in the collection area, header and footer area e .t. c .
+- In this section of customization you can also set logo name your store and change the font style and colour also 

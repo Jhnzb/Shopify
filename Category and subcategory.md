@@ -1,0 +1,3 @@
+- In the collection section all you need is to create a title of your collection add description below add the title of your product which comes  under collection title.
+- You can add up to 60 items or products in this collection section all that  you need is to go to  create collection add collection title changes the collection type to automated and  when you go to conditions section changes it to product tag and make it equal to product title apply these changes and save them.
+- After that i go to navigation section  in online store option and from there i click on main menu section and make category  e.g its Mens footwear category you place the jogers sports shoes and waliking shoes under this section and vice versa.

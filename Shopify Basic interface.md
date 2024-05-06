@@ -1,0 +1,11 @@
+- First step in creating an online shopify website or store is to open your browser and type "shopify " in your browser .
+- Visit first website which comes first on your browser named "shopify".
+- When you click on that shopify original website opens up .
+- If you dont have any shopify store earlier than create a new one by entering your email address.
+- The next slide which comes up on your screen is about asking you some of the basic information and the very first one is that "Are you running an online store previously on any other website  or  its the first time that you are creating a store  " . Just click on I m just starting and go ahead.
+- The next slide which opens up asked you about what are the products/what would you like to sell. Choose any of the four basic options according to your prefrence and  go ahead But if you are confused that which one is the best option that matches your taste just click on 'im not sure ' and proceed.
+- In the next slide shopify ask you about "what type of plan/products do you want to sell" similarly choose them according to your prefrence and go ahead.
+- Select your buisness loaction and go ahead.
+- The last step which shopify asks is to re enter your email address  and proceed. 
+- Wait for few seconds and your online store has been created.
+- Shopify interface comes up on your screen showing that you are currently working in trial version (shopify gives you a three day trial ) and after that you select any four of the basic plans (basic, shopify, advanced and plus plan ).
